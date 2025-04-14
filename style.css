@@ -1,0 +1,15 @@
+.box {
+    width: 150px;
+    height: 150px;
+    border: 18px solid black;
+}
+.bg-color {
+    background-color: rgba(0, 166, 10, 0.95);
+}
+p {
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.53);
+    padding: 40px;
+    text-align: center;
+    justify-content: center;
+}
