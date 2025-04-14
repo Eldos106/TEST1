@@ -1,7 +1,8 @@
 /// 1
 
+const regExp = /^\d+$/;
+
 const containsOnlyDigits = (str) => {
-    const regExp = /^\d+$/;
     return regExp.test(str);
 }
 
